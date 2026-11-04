@@ -13,10 +13,17 @@ I build practical projects with Python, FastAPI, Angular, and PostgreSQL while d
 - **Interests:** Artificial intelligence, machine learning, cybersecurity, secure application design, and AI-powered applications.
 - **Open to:** Learning together and collaborating on practical projects.
 
+## 🎯 Skills
+
+- **Mobile app development:** Building cross-platform mobile applications with Flutter.
+- **Video editing:** Creating engaging short-form videos with pacing, transitions, captions, and visual storytelling.
+
 ## 🛠️ Languages & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
