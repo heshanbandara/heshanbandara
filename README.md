@@ -45,4 +45,4 @@ I build practical projects with Python, FastAPI, Angular, and PostgreSQL while d
 
 ## 🌐 Connect
 
-[GitHub](https://github.com/heshanbandara) · [Portfolio repository](https://github.com/heshanbandara/My-Portfolio)
+[GitHub](https://github.com/heshanbandara) · [My Portfolio](https://heshanbandara.github.io/My-Portfolio/)
